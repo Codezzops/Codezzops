@@ -1,16 +1,22 @@
-## Hi there 👋
+# Codezz-ops - A Passionate Developer
 
-<!--
-**Codezzops/Codezzops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Codezz-ops, a dedicated software developer with a passion for crafting innovative solutions and solving complex problems. With a background in computer science, I bring a strong foundation in algorithms, data structures, and extensive experience in various programming languages and technologies.
 
-Here are some ideas to get you started:
+I'm always eager to explore new technologies and thrive on exciting challenges. Whether starting a new project or contributing to open-source initiatives, I'm motivated by the thrill of creating and making a positive impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+### My Skills
+![My Skills](https://skillicons.dev/icons?i=linux,bash,go,cpp,c,docker,neovim)
+
+## Projects
+
+Here are a few of the projects I've worked on, showcasing my skills and interests:
+
+- **Pegasus**: An interactive hacking shell designed to simplify hacking tasks.
+- **Obsidain**: Obsidian is a high-level general purpose programming language. 
+- **WhaleC**: C based docker container manager. 
+
+## Contact Me
+
+If you have any questions, comments, or just want to say hi, please don't hesitate to reach out to me on GitHub or via email at Codezz-ops@protonmail.com. I'm always eager to connect and hear from you!
