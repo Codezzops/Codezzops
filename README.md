@@ -13,7 +13,7 @@ I'm always eager to explore new technologies and thrive on exciting challenges. 
 
 Here are a few of the projects I've worked on, showcasing my skills and interests:
 
-- **Obsidain**: Obsidian is a compiled general purpose programming language. 
+- **Obsidian**: Obsidian is a compiled general purpose programming language. 
 
 ## Contact Me
 
