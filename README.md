@@ -7,15 +7,13 @@ I'm always eager to explore new technologies and thrive on exciting challenges. 
 ## Skills and Technologies
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=linux,bash,go,cpp,c,docker,neovim)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,go,cpp,c,ocaml)
 
 ## Projects
 
 Here are a few of the projects I've worked on, showcasing my skills and interests:
 
-- **Pegasus**: An interactive hacking shell designed to simplify hacking tasks.
-- **Obsidain**: Obsidian is a high-level general purpose programming language. 
-- **WhaleC**: C based docker container manager. 
+- **Obsidain**: Obsidian is a compiled general purpose programming language. 
 
 ## Contact Me
 
